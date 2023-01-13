@@ -2,15 +2,15 @@ body {
   font-family: sans-serif;
   margin: auto;
   max-width: 1280px;
-  background: url(screen1.jpg);
+  background: url(bg.jpg);
   background-size: 100%;
 }
 
 .navbar {
-  background-color: #fff800;
-  border-radius: 2px;
+  /* background-color: #fff800; */
+  /* border-radius: 2px; */
   /* max-width: 800px; */
-  max-width: fit-content;
+  /* max-width: fit-content; */
 }
 
 .navbar a {
