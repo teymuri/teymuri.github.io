@@ -25,3 +25,9 @@ body {
   text-decoration: underline overline double;
 }
 
+a:link {
+    color: black;
+}
+a:hover {
+    color: blue;
+}
