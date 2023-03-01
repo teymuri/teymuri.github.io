@@ -31,4 +31,5 @@ a:link {
 }
 a:hover {
     color: blue;
+    text-decoration: underline overline double;
 }
