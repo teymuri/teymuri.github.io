@@ -37,6 +37,6 @@ a:link {
     font-weight: bold;
 }
 a:hover {
-    color: blue;
+    color: green;
     text-decoration: underline overline double;
 }
