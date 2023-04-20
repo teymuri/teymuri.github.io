@@ -37,6 +37,6 @@ a:link {
     font-weight: bold;
 }
 a:hover {
-    color: green;
+    color: chartreuse;
     text-decoration: underline overline double;
 }
