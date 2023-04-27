@@ -3,7 +3,7 @@ body {
   margin: auto;
   max-width: 1280px;
   background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(yellow,red);
+  background-image: linear-gradient(yellow,darkorange);
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 100%;
