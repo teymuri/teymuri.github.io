@@ -41,3 +41,8 @@ a:hover {
     color: blue;
     text-decoration: underline overline double;
 }
+
+video {
+    max-height: 350px;
+    max-width: 500px;
+}
