@@ -14,16 +14,6 @@ body {
 }
 
 
-#rightpic {
-    background-position: top right;
-    /* background: url('assets/prien.jpeg') no-repeat; */
-    height : 100%;
-    width: 100%;
-    padding : 0;
-    float: right;
-    margin: 10px;
-}
-
 
 .navbar {
   /* background-color: #fff800; */
