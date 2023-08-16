@@ -13,18 +13,17 @@ body {
   /* background-size: 100%; */
 }
 
-.indeximg {
-    position: relative;
+
+#rightpic {
+    background-position: top right;
+    /* background: url('assets/prien.jpeg') no-repeat; */
+    height : 100%;
+    width: 100%;
+    padding : 0;
+    float: right;
+    margin: 10px;
 }
-.indeximg img {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-}
-.indeximg img:hover {
-  border: solid 2px red;
-  margin: -2px;
-}
+
 
 .navbar {
   /* background-color: #fff800; */
