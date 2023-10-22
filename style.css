@@ -13,6 +13,18 @@ body {
   /* background-size: 100%; */
 }
 
+/* Define a class for the image */
+.border-hover {
+  border: 1px solid #000; /* Initial border style and thickness */
+  display: inline-block; /* Make sure the element respects the border */
+  transition: border-width 0.1s; /* Smooth transition effect */
+}
+
+/* Define the hover effect */
+.border-hover:hover {
+  border-width: 4px; /* Increase border thickness on hover */
+  border-color: red;
+}
 
 
 .navbar {
