@@ -22,7 +22,7 @@ body {
 
 /* Define the hover effect */
 .img-border-hover:hover {
-  box-shadow: 0 0 0 5px red; /* Create a red "border" with 5px thickness on hover */
+  box-shadow: 0 0 0 5px #990000; /* Create a red "border" with 5px thickness on hover */
 }
 
 
@@ -51,7 +51,7 @@ a:link {
     font-weight: bold;
 }
 a:hover {
-    color: red;
+    color: #990000;
     text-decoration: underline overline double;
 }
 
