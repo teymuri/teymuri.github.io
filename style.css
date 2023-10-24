@@ -22,7 +22,7 @@ body {
 
 /* Define the hover effect */
 .img-border-hover:hover {
-  box-shadow: 0 0 0 3px #e00000; /* Create a red "border" with 5px thickness on hover */
+  box-shadow: 0 0 0 4px #e00000; /* Create a red "border" with 5px thickness on hover */
 }
 
 
