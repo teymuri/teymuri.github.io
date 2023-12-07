@@ -1,0 +1,19 @@
+die analogie zur objekt-orientierten programmierung bietet sich in diesem kontext sehr gut an. in oop arbeiten wir mit
+instanzen  gegebener prototypen eines erscheinens (die sog. objekten). dieser prototyp umfasst alle eigenschaften des
+erscheinens, alle nur möglichen verhalten sind darin gestgehalten, die wir in unserem code für unsere zwecke einsetzen.
+zurück zur musik kann ich diese analogie auf verschiedene ebenen gelten lassen: ein bestimmter Ton eines bestimmten
+instrumentes ist eine einmalige instanz des klanges dieses instrumentes. noch spannender wird es jedoch wenn wir das auf
+eine ebene weiter unter lupe betrachten: ein bestimmter ton eines instrumentes stellt eine instanz dieses einmaligen
+tones dar, dabei sind alle facetten des tons, alle eigenschaften dieses klangs einmalig für diese instanz initialisiert.
+Ein konkretes beispiel wird diese analogie musikalisch noch erfassbarer machen: der Ton A 440 Hz auf einem Klavier ist
+das Objekt (die Klasse). Zu den Attributen dieser Klasse zählen u.a. deren Frequenz, die Anschlagkraft / die Lautstärke,
+die Dauer des Tones, aber auch das Instrument worau der Ton initialisiert wurde. somit begreife ich das anschlagen des
+tons a440 auf einem bestimmten klavier als einen anderen instanz der klasse A440, als der zweite angeschlagene A440 auf
+demselben Klavier! somit braucht es keine unterschiede in den eigenschaften des tons vorzuliegen um zwei töne des
+klaviers als zwei unterschiedlichen instanzen zu begreifen (wie in der ersten ebene der fall war) sondern stellen zwei
+hinter einander angeschlagene töne mit exakt gleichen attributen sind schon zwei instanzen desselben prototypen. Noten
+zu schreiben beschäftigt sich mit dieser ebene: in der tradition der west-europäischen musik, ist es die aufgabe des
+komponisten gewesen durch markierungen auf dem Papier (lesen Notentext) Anweisungen zu instanzierung einer begrenzten
+Anzahl von Klang-Prototypen zu geben (und damit schlage ich einen Bogen über den gesamten Spektrum von anhand
+kirchen-modi strukturierte Musik bis hinzu erzeugung des Geräuschehaften auf Instrumente, die in Notentexten organisiert
+sind)
