@@ -1,10 +1,12 @@
 body {
-  font-family: sans-serif;
+  font-family: "Lucida Console", "Courier New", monospace;
+  /* font-family: sans-serif; */
   /* font-family: "Monospace"; */
   margin: auto;
   max-width: 1280px;
-  background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, darkorange, yellow);
+  /* background-color: red; /1* For browsers that do not support gradients *1/ */
+  /* background-image: linear-gradient(to right, darkorange, yellow); */
+  background-image: linear-gradient(to right, white, gray);
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 100%;
