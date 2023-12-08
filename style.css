@@ -6,7 +6,7 @@ body {
   max-width: 1280px;
   /* background-color: red; /1* For browsers that do not support gradients *1/ */
   /* background-image: linear-gradient(to right, darkorange, yellow); */
-  background-image: linear-gradient(to right, white, gray);
+  background-image: linear-gradient(to right, white, gainsboro);
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 100%;
