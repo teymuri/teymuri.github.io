@@ -1,13 +1,13 @@
 body {
   font-family: "Lucida Console", "Courier New", monospace;
-  color: Gainsboro;
+  color: DimGray;
   /* font-family: sans-serif; */
   /* font-family: "Monospace"; */
   margin: auto;
   max-width: 1280px;
   /* background-color: red; /1* For browsers that do not support gradients *1/ */
   /* background-image: linear-gradient(to right, darkorange, yellow); */
-  background-image: linear-gradient(to right, Black, Gray);
+  background-image: linear-gradient(to right, DarkGray, WhiteSmoke);
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 100%;
@@ -25,7 +25,7 @@ body {
 
 /* Define the hover effect */
 .img-border-hover:hover {
-  box-shadow: 0 0 0 4px #000000; /* Create a red "border" with 5px thickness on hover */
+  box-shadow: 0 0 0 5px #000000; /* Create a red "border" with 5px thickness on hover */
 }
 
 
@@ -34,7 +34,7 @@ body {
   /* border-radius: 2px; */
   /* max-width: 800px; */
   /* max-width: fit-content; */
-  color: Gainsboro;
+  color: DimGray;
 }
 
 .navbar a {
@@ -51,7 +51,7 @@ body {
 }
 
 a:link {
-  color: Gainsboro;
+  color: DimGray;
     /* color: black; */
   text-decoration: none;
   font-weight: bold;
