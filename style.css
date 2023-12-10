@@ -1,6 +1,6 @@
 body {
   font-family: "Lucida Console", "Courier New", monospace;
-  color: #484848;
+  color: #666699;
   /* font-family: sans-serif; */
   /* font-family: "Monospace"; */
   margin: auto;
@@ -47,11 +47,11 @@ body {
 
 .navbar a:hover {
   text-decoration: underline overline double;
-  color: yellow;
+  color: #006600;
 }
 
 a:link {
-  color: DimGray;
+  /* color: DimGray; */
     /* color: black; */
   text-decoration: none;
   font-weight: bold;
