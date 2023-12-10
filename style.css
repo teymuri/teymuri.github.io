@@ -20,12 +20,12 @@ body {
 .img-border-hover {
   border: 1px solid #000; /* Initial border style and thickness (black color) */
   display: inline-block; /* Make sure the element respects the border */
-  transition: box-shadow 0.2s; /* Smooth transition effect for box-shadow */
+  transition: box-shadow 0.3s; /* Smooth transition effect for box-shadow */
 }
 
 /* Define the hover effect */
 .img-border-hover:hover {
-  box-shadow: 0 0 0 5px #000000; /* Create a red "border" with 5px thickness on hover */
+  box-shadow: 0 0 0 5px #cc3300; /* Create a red "border" with 5px thickness on hover */
 }
 
 
@@ -47,7 +47,7 @@ body {
 
 .navbar a:hover {
   text-decoration: underline overline double;
-  color: #006600;
+  color: #6600ff;
 }
 
 a:link {
@@ -57,7 +57,7 @@ a:link {
   font-weight: bold;
 }
 a:hover {
-    color: orange;
+    color: #6600ff;
     text-decoration: underline overline double;
 }
 
