@@ -41,7 +41,7 @@ body {
 .navbar a {
   display: inline-block;
   font-size: 20px;
-  padding: 10px;
+  padding: 5px;
   text-decoration: none;
   font-weight: bold;
 }
@@ -52,10 +52,11 @@ body {
 }
 
 a:link {
-  /* color: DimGray; */
+    /* color: DimGray; */
     /* color: black; */
-  text-decoration: none;
-  font-weight: bold;
+    font-size: 10px;
+    text-decoration: none;
+    font-weight: bold;
 }
 a:hover {
     color: #666699;
