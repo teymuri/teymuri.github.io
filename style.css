@@ -1,15 +1,22 @@
 body {
-  /* font-family: "Lucida Console", "Courier New", monospace; */
-  color: #33334d;
+
+  color: Light Grey;
+
   /* font-family: sans-serif; */
   /* font-family: "Monospace"; */
-  font-family: "Helvetica";
+  font-family: "Lucida Console", "Courier New", monospace;
+  /* font-family: "Helvetica"; */
+
   margin: auto;
   max-width: 1280px;
-  /* background-color: red; /1* For browsers that do not support gradients *1/ */
+
+  background-color: Jet; /* For browsers that do not support gradients */
+
   /* background-image: linear-gradient(to right, darkorange, yellow); */
-  background-image: linear-gradient(to right, White, #c2c2d6);
-  background-repeat: no-repeat;
+
+  /* background-image: linear-gradient(to right, White, #c2c2d6); */
+  /* background-repeat: no-repeat; */
+
   background-attachment: fixed;
   height: 100%;
   /* margin: 0; */
@@ -53,13 +60,13 @@ body {
 
 a:link {
     /* color: DimGray; */
-    /* color: black; */
+    color: "Roman Silver";
     /* font-size: 20px; */
     text-decoration: none;
     font-weight: bold;
 }
 a:hover {
-    color: #666699;
+    color: Plum;
     text-decoration: underline overline double;
 }
 
