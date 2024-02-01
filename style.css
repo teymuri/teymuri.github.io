@@ -58,15 +58,25 @@ body {
   color: #ff9900;
 }
 
+/* unvisited link */
 a:link {
     color: #00b300;
     /* font-size: 20px; */
     text-decoration: none;
     font-weight: bold;
 }
+/* visited link */
+a:visited {
+    color: #cc33ff;
+}
+/* mouse over link */
 a:hover {
     color: #ff0000;
     text-decoration: underline overline double;
+}
+/* selected link */
+a:active {
+    color: #800000;
 }
 
 video {
