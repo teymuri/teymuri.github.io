@@ -42,7 +42,7 @@ body {
   /* border-radius: 2px; */
   /* max-width: 800px; */
   /* max-width: fit-content; */
-  color: #0099cc;
+  /* color: #0099cc; */
 }
 
 .navbar a:link {
@@ -56,7 +56,7 @@ body {
 
 .navbar a:hover {
   text-decoration: underline overline double;
-  color: #0099cc;
+  color: #33ccff;
 }
 
 /* unvisited link */
@@ -68,11 +68,11 @@ a:link {
 }
 /* visited link */
 a:visited {
-    color: #ff6600;
+    color: #cccc00;
 }
 /* mouse over link */
 a:hover {
-    color: #ff6600;
+    color: #ff0066;
     text-decoration: underline overline double;
 }
 /* selected link */
