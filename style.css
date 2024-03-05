@@ -1,6 +1,7 @@
 body {
 
-  color: #d3d3d3;
+  /* color: #d3d3d3; */
+  color: #000000;
 
   /* font-family: sans-serif; */
   /* font-family: "Monospace"; */
@@ -10,7 +11,7 @@ body {
   margin: auto;
   max-width: 1280px;
 
-  background-color: #242124; /* For browsers that do not support gradients */
+  /* background-color: #242124; /1* For browsers that do not support gradients *1/ */
 
   /* background-image: linear-gradient(to right, darkorange, yellow); */
 
