@@ -1,17 +1,20 @@
 body {
 
   /* color: #d3d3d3; */
-  color: #000000;
+  /* color: #000000; */
+  /* Font color */
+  color: #ffffff;
 
   /* font-family: sans-serif; */
   /* font-family: "Monospace"; */
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: monospace, "Courier New", "Arial", sans-serif;
   /* font-family: "Helvetica"; */
 
   margin: auto;
   max-width: 1280px;
 
   /* background-color: #242124; /1* For browsers that do not support gradients *1/ */
+  background-color: #000000; /* For browsers that do not support gradients */
 
   /* background-image: linear-gradient(to right, darkorange, yellow); */
 
@@ -34,7 +37,7 @@ body {
 
 /* Define the hover effect */
 .img-border-hover:hover {
-  box-shadow: 0 0 0 4px #00cc00; /* Create a red "border" with 5px thickness on hover */
+  box-shadow: 0 0 0 4px #9900ff; /* Create a red "border" with 5px thickness on hover */
 }
 
 
@@ -52,40 +55,36 @@ body {
   padding: 5px;
   text-decoration: none;
   font-weight: bold;
-  color: #ff9900;
+  color: #ffd11a;
 }
 
 .navbar a:hover {
   text-decoration: underline overline double;
-  color: #33ccff;
+  color: #00ff00;
 }
 
 /* unvisited link */
 a:link {
-    color: #00e600;
+    color: #00ffff;
     /* font-size: 20px; */
     text-decoration: none;
     font-weight: bold;
 }
 /* visited link */
 a:visited {
-    color: #cccc00;
+    color: #ff0000;
 }
 /* mouse over link */
 a:hover {
-    color: #ff0066;
+    color: #ff80d5;
     text-decoration: underline overline double;
 }
 /* selected link */
 a:active {
-    color: #800000;
+    color: #0000ff;
 }
 
 video {
     max-height: 350px;
     max-width: 500px;
 }
-
-
-
-
